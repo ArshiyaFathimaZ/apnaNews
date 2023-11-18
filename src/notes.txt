@@ -1,0 +1,5 @@
+1.Constructor method is called
+2.Next render method is called
+3.componentDidMount is a life cycle method ,it's called after the render method is called
+
+
